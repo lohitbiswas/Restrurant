@@ -18,10 +18,12 @@ public class Reservation {
     private String id;
     private String tableId;
     private String resturantId;
+    private String userId;
     private String customerName;
     private String customerContact;
     //private LocalDateTime dateTime;
     private int partySize;
+
 
 }
 
